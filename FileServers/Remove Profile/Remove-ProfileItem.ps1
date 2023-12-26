@@ -1,6 +1,6 @@
 <#
     Changed: 2023.12.26
-    #CHANGEME - То что нужно поменять
+    #CHANGEME - Изменить параметры LDAP запроса
 #>
 
 [CmdletBinding(
